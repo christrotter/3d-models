@@ -1,9 +1,12 @@
 # 3d-models
-Place to version my 3d models and STLs
+Place to version my 3d models and STLs, plus f3z files for those who want to improve/adapt.
+
+Take whatever you want, hope it helps!
 
 # Index
 ## Keyboards
 - All ArcBoard revisions
+- ArcPedals mk1 & mk2
 - RP2040 housings
 - Trackball/PMW33XX mount
 - mxledbitpcb/container switch/pcb mount component, w. key blanking plates
