@@ -6,6 +6,10 @@ This solves for that!
 
 ![front view](./images/front-view.jpg)
 
+![front view](./images/side-view.jpg)
+
+![front view](./images/top-view.jpg)
+
 # Features
 - elevated rear slot for better access
 - depressions in bottom for anti-slip bumpers
@@ -14,3 +18,9 @@ This solves for that!
   - each radio slot is removable and uses a standard adapter for easy re-modeling
 - 'signboard' on each endcap for your own text/logo
 - designed for minimal waste in printing; just add glue
+
+# Design view
+
+![front view](./images/model-view.jpg)
+
+![front view](./images/model-bottom-view.jpg)
