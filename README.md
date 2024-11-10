@@ -6,7 +6,7 @@ Take whatever you want, hope it helps!
 # Index
 ## Keyboards
 - All ArcBoard revisions
-- ArcPedals mk1 & mk2
+- All ArcPedals revisions
 - RP2040 housings
 - Trackball/PMW33XX mount
 - mxledbitpcb/container switch/pcb mount component, w. key blanking plates
@@ -18,6 +18,7 @@ Take whatever you want, hope it helps!
 - ergotron lx pivot sleeves, also to fit on a gas black pipe mount
 - diy headphone/cable holder
 - diy vesa-to-pen holder
+- radio holder thing
 - misc
 ## Toys
 A bunch of hotwheels parts, some to help adapt Lego-to-hotwheels track.
