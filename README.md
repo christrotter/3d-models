@@ -19,6 +19,8 @@ Take whatever you want, hope it helps!
 - diy headphone/cable holder
 - diy vesa-to-pen holder
 - radio holder thing
+- ATX power supply under-desk mount system, with PDU expander option for the `pdu-inator` pcb
+- dimmer knob (overcomplicated)
 - misc
 ## Toys
 A bunch of hotwheels parts, some to help adapt Lego-to-hotwheels track.
